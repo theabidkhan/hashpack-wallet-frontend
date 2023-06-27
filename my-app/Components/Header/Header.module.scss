@@ -1,0 +1,8 @@
+@use '../../app/styles/variables.scss' as var;
+
+.head {
+  color: var.$headline-color;
+  position: static;
+  height: 62px;
+  padding-left: -20px;
+}
